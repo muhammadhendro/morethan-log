@@ -18,9 +18,9 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "MH Blog",
+    title: "#flintz",
     description: "welcome to my blog!",
-    scheme: "light", // 'light' | 'dark' | 'system' |
+    scheme: "dark", // 'light' | 'dark' | 'system' |
   },
 
   // CONFIG configration (required)
